@@ -1,0 +1,7 @@
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\obj\Debug\ParametryTrojkata.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\obj\Debug\ParametryTrojkata.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\bin\Debug\ParametryTrojkata.exe.config
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\bin\Debug\ParametryTrojkata.exe
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\bin\Debug\ParametryTrojkata.pdb
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\obj\Debug\ParametryTrojkata.exe
+C:\Users\PH\Desktop\C#\ParametryTrojkata\ParametryTrojkata\obj\Debug\ParametryTrojkata.pdb
